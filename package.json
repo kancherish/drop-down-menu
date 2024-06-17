@@ -1,0 +1,19 @@
+{
+  "name": "@corner/drop-down-menu",
+  "version": "0.0.2",
+  "description": "a simple module to drop down functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kancherish/drop-down-menu.git"
+  },
+  "author": "cherish-kansara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kancherish/drop-down-menu/issues"
+  },
+  "homepage": "https://github.com/kancherish/drop-down-menu#readme"
+}
